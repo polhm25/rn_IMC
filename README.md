@@ -43,7 +43,7 @@ The app uses the WHO-based classification system with 8 categories:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd rn_IMC
+   cd bmi-calculator-react-native
    ```
 
 2. **Install dependencies**
@@ -55,6 +55,10 @@ The app uses the WHO-based classification system with 8 categories:
    ```bash
    npm start
    ```
+- Node.js (v16+)
+- Expo Go app on your mobile device (for testing)
+  - [Download for iOS](https://apps.apple.com/app/expo-go/id982107779)
+  - [Download for Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
 
 ### Running on Different Platforms
 
@@ -177,18 +181,6 @@ Potential improvements for future versions:
 - Multiple language support
 - Export IMC history as PDF
 - Reminder notifications for health check-ups
-
-## License
-
-This project is private and for educational purposes.
-
-## Support
-
-If you encounter any issues or have questions about the app:
-
-1. Check the project's issue tracker
-2. Review the CLAUDE.md file for development documentation
-3. Ensure you're running compatible versions of dependencies
 
 ## Acknowledgments
 
